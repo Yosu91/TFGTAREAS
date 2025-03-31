@@ -11,3 +11,16 @@ Sistema de recordatorios y notificaciones.
 Tablero Kanban para visualizar el progreso.
 
 Gamificación: puntos y recompensas por completar tareas.
+
+Funcionalidades principales
+Gestión de usuarios y roles (Administrador, Miembro del hogar).
+
+Creación y asignación de tareas (nombre, descripción, fecha límite, prioridad, responsable).
+
+Estado de las tareas (pendiente, completada).
+
+Notificaciones y recordatorios por correo o push.
+
+Sistema de recompensas.
+
+Tablero Kanban con arrastrar y soltar.
