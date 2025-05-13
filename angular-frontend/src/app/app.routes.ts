@@ -1,7 +1,7 @@
 import { Routes } from '@angular/router';
 import { TasksComponent } from './modules/tasks/tasks.component';
 import { LandingComponent } from './modules/landing/landing.component';
-import { LoginComponent } from './paginas/login/login.component';
+import { LoginComponent } from './modules/login/login.component';
 
 export const routes: Routes = [
     {path: "", component: LandingComponent},
